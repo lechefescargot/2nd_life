@@ -5,5 +5,5 @@
 // la sécurité est assurée par les règles RLS de supabase/schema.sql.
 // Ne mettez JAMAIS la clé "service_role" ici.
 
-export const SUPABASE_URL = "https://gqxlaxjgdfmvzdlhexal.supabase.com";
+export const SUPABASE_URL = "https://gqxlaxjgdfmvzdlhexal.supabase.co";
 export const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdxeGxheGpnZGZtdnpkbGhleGFsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTAxODYyOTAsImV4cCI6MjEwNTc2MjI5MH0.znooluWuBtUoB9M1_OZ-amTU4HSxJVm6UgUcCmLPnS4";
